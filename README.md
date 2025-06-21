@@ -7,7 +7,7 @@ This project demonstrates proficiency in modern React development practices, sta
 
 ## 🚧 Note to Reviewer
 
-This take-home assignment is a **work-in-progress** snapshot, intended to demonstrate my familiarity with the required tools and architecture. It is **not** production-ready—there are known bugs, missing edge-case handling, and many areas marked for improvement. Given more time, I’d prioritize stabilizing the infinite-scroll, polishing the search/filter UX, expanding test coverage, and tightening up authentication/session management.
+This is a **work-in-progress** snapshot, intended to demonstrate my familiarity with the required tools and architecture. It is **not** production-ready—there are known bugs, missing edge-case handling, and many areas marked for improvement. Given more time, I’d prioritize stabilizing the infinite-scroll, polishing the search/filter UX, expanding test coverage, and tightening up authentication/session management.
 
 Thank you for understanding, and I look forward to any feedback!
 
