@@ -1,4 +1,4 @@
-# Policy Recommendations Dashboard - Chris Josh - christopherjoshua25@hotmail.com
+# Policy Recommendations Dashboard
 
 ## Project Overview
 This Policy Recommendations Dashboard is a web application designed to help security teams manage and track policy recommendations across cloud environments. The dashboard allows users to view, filter, search, and manage security policy recommendations, including archiving and unarchiving recommendations as needed.
